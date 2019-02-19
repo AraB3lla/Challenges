@@ -1,0 +1,13 @@
+body{
+    background-color:limegreen;
+}
+.heading{
+    color: red;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+.resimg{
+    width: 100%;
+    height: 100%;
+}
